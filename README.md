@@ -10,9 +10,3 @@ _by wupiupi, ice43, Pavel Gribachev_
 <img src="https://github.com/ice43/MotorPool/assets/92436401/8fd89b37-6eba-475b-a5ea-340c4370c677" width="200" height="430"/>
 <img src="https://github.com/ice43/MotorPool/assets/92436401/8d614d8e-a4fe-417a-8882-642e46900ede" width="200" height="430"/>
 <img src="https://github.com/ice43/MotorPool/assets/92436401/cc1fedaa-27b2-4e50-ab8a-794cf8e86d87" width="200" height="430"/>
-
-
-
-
-
-
